@@ -1,0 +1,106 @@
+[{
+  "Id": "721a6d36-dc32-4768-95d1-068b18075687",
+  "ProductCode": 1,
+  "Name": "Brufen",
+  "Manufacturer": "Famar SA",
+  "Type": "Tablets",
+  "Instruction": {
+    "Dose": "On every 8 hours",
+	"Symptoms": [
+		"Headache",
+		"Temperature",
+		"Toothache"
+	],
+    "SideEffects": [],
+    "Warning": "None",
+	"Usage": "Drink with water"
+  },
+  "Quantity": 150,
+  "Price": 250
+},{
+  "Id": "c416279e-d52f-443f-9872-9a0486b3b29f",
+  "ProductCode": 2,
+  "Name": "Aspirin",
+  "Manufacturer": "BAYER BITTERFELD GMBH",
+  "Type": "Tablets",
+  "Instruction": {
+    "Dose": "Optionally",
+	"Symptoms": [
+		"Headache",
+		"Pains",
+		"Toothache"
+	],
+    "SideEffects": [
+		"Allergic reaction",
+		"Rash",
+		"Reye syndrome"
+	],
+    "Warning": "See side effects",
+	"Usage": "Drink with water"
+  },
+  "Quantity": 80,
+  "Price": 310
+},{
+  "Id": "bd70c602-ef2e-41fa-8fef-b6c74da231ec",
+  "ProductCode": 3,
+  "Name": "Amoxicillin",
+  "Manufacturer": "Famar SA",
+  "Type": "Tablets",
+  "Instruction": {
+    "Dose": "On every 12 hours",
+	"Symptoms": [
+		"Urinary tract infection",
+		"Gonorrhea"
+	],
+    "SideEffects": [
+		"Allergic reaction",
+		"Rash",
+		"Mild stomach upset"
+	],
+    "Warning": "Prolonged use of amoxicillin may occasionally lead to the growth of resistant microorganisms!",
+	"Usage": "Drink with water"
+  },
+  "Quantity": 80,
+  "Price": 310
+},{
+  "Id": "c407d9f8-5130-430b-9aaa-77128438d993",
+  "ProductCode": 4,
+  "Name": "Hepatitis B vaccine",
+  "Manufacturer": "BAYER BITTERFELD GMBH",
+  "Type": "Vaccine",
+  "Instruction": {
+    "Dose": "One or more as needed",
+	"Symptoms": [
+		"Fever",
+		"Fatigue",
+		"Muscle pain",
+		"Loss of appetite"
+	],
+    "SideEffects": [],
+    "Warning": "Pain may occur at the site of injection!",
+	"Usage": "Inject"
+  },
+  "Quantity": 35,
+  "Price": 400
+},{
+  "Id": "1ca9e0df-7fa9-4c4e-9d0c-ce6058bc0235",
+  "ProductCode": 5,
+  "Name": "Sinacilin",
+  "Manufacturer": "GALENIKA AD",
+  "Type": "Capsules",
+  "Instruction": {
+    "Dose": "Before a meal",
+	"Symptoms": [
+		"Bacterial infections",
+		"Dental abscess"
+	],
+    "SideEffects": [
+		"Allergic reaction",
+		"Crystalluria"
+	],
+    "Warning": "An allergic reaction may occur",
+	"Usage": "Drink with water"
+  },
+  "Quantity": 50,
+  "Price": 280
+}]
