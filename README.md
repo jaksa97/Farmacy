@@ -1,5 +1,4 @@
 # Farmacy
-Final project for exam Theory of programming languages
 
 ## Project description
 This is a simple desktop application that serves as a catalog of medicines as well as for ordering medicines. You can register as well as log in to the app. 
