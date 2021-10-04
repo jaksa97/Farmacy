@@ -8,3 +8,7 @@ In the main part of the application there is a list of drugs as well as search f
 1. MongoDB.Driver     https://www.nuget.org/packages/MongoDB.Driver/2.11.6?_src=template
 2. MongoDB.Bson       https://www.nuget.org/packages/MongoDB.Bson/2.11.6?_src=template
 3. Newtonsoft.Json    https://www.nuget.org/packages/Newtonsoft.Json/12.0.3?_src=template
+
+## MongoDB requirements
+1. MongoDB Community Server   https://www.mongodb.com/try/download/community
+2. MongoDB Compass            https://www.mongodb.com/try/download/compass
